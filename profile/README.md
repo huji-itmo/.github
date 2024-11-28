@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Personal organisation containing repos I created studying in ITMO university CSE 2027'
 <!--
 
 **Here are some ideas to get you started:**
